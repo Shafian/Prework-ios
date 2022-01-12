@@ -1,7 +1,7 @@
 ## Hello World 
 
 ### App Description
-`TODO://` Tells you hello and lets you chnage the background color.When ready to say good bye, there's a button that changes hello to good bye.
+`TODO://` Tells you hello and lets you change the background color. When ready to say good bye, there's a button that changes hello to good bye.
 
 <img src="https://i.imgur.com/o9xkTar.gif" width=200><br>
 
